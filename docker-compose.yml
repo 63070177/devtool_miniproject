@@ -6,7 +6,7 @@ services:
 
   hello-app:
     build: ./hello-app
-    image: 63070104/img-frontend:1.0
+    image: 63070177/img-frontend:1.0
     ports: 
       - 3000:3000
     networks:
