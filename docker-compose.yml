@@ -1,0 +1,17 @@
+# version is now using "compose spec"
+# v2 and v3 are now combined!
+# docker-compose v1.27+ required
+
+services:
+
+  hello-app:
+    build: ./hello-app
+    image: 63070104/img-frontend:1.0
+    ports: 
+      - 3000:3000
+    networks:
+      - front-tier
+
+networks:
+  front-tier:
+  back-tier:
