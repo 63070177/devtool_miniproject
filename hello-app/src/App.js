@@ -59,7 +59,7 @@ function App() {
                   type="text"
                   className="form-control"
                   id="name"
-                  placeholder="Enter your name"
+                  placeholder="Enter your name right here"
                 />
               </div>
               <div className="form-group" style={{ marginLeft: 10 }}>
