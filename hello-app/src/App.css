@@ -37,9 +37,10 @@
 } */
 
 .text{
-  color:brown;
+  color:white;
+  font-size: large;
 }
 
-.container{
+.body{
   background-color: #A066CB;
 }

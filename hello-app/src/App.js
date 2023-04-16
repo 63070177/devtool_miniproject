@@ -6,8 +6,8 @@ function App() {
   console.log(hostname);
   return (
     <div className="container">
-      <h1>LaSistant</h1>
-      <p>Let's begin</p>
+      <h1 className="text">LaSistant</h1>
+      <p className="text">Let's begin</p>
     </div>
   );
 }
