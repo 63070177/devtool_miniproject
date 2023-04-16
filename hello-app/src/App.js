@@ -1,5 +1,5 @@
 import React from "react";
-import StyleSheet from "react-native";
+import styles from './App.css';
 
 function App() {
   const hostname = `${window.location.hostname}`;
@@ -10,11 +10,5 @@ function App() {
     </div>
   );
 }
-
-const styles = StyleSheet.create({
-  text: {
-    color: 'brown'
-  }
-})
 
 export default App;
