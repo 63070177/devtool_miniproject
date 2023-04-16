@@ -7,7 +7,7 @@ function App() {
   console.log(hostname);
   return (
     <div className="container">
-      <ul>1</ul>
+      <ul style={text}>1</ul>
     </div>
   );
 }
