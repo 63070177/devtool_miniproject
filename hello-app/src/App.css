@@ -78,7 +78,7 @@ body{
   left: 50%; 
   top: 50%;
   transform: translate(-50%, -50%);
-  height: fit-content;
+  overflow: visible;
 }
 
 /* Rectangle 1 */
