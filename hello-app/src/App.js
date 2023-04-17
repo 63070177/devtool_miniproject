@@ -1,16 +1,18 @@
 import React from "react";
-import './App.css';
+import "./App.css";
 
 function App() {
   const hostname = `${window.location.hostname}`;
   console.log(hostname);
   return (
-    <div className="container">
+    <div>
       <div className="logo">
-        <img src="./logo.png"></img>
+          <img src="logo.png"></img>
+        </div>
+      <div className="container">
+        <h1 className="AppName">LaSistant</h1>
+        <p className="text">Let's begin</p>
       </div>
-      <h1 className="AppName">LaSistant</h1>
-      <p className="text">Let's begin</p>
     </div>
   );
 }
