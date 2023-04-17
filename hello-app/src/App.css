@@ -82,7 +82,7 @@ body{
 }
 
 /* Rectangle 1 */
-rect1{
+.rect1{
   position: absolute;
 width: 146px;
 height: 255px;
@@ -97,7 +97,7 @@ transform: rotate(-40deg);
 
 
 /* Rectangle 4 */
-rect2{
+.rect2{
   position: absolute;
 width: 146px;
 height: 255px;
@@ -112,7 +112,7 @@ transform: rotate(-40deg);
 
 
 /* Rectangle 2 */
-rect3{
+.rect3{
   position: absolute;
 width: 146px;
 height: 255px;
@@ -127,7 +127,7 @@ transform: rotate(-40deg);
 
 
 /* Rectangle 3 */
-rect4{
+.rect4{
   position: absolute;
 width: 146px;
 height: 255px;
@@ -142,7 +142,7 @@ transform: rotate(-40deg);
 
 
 /* Rectangle 4 */
-rect5{
+.rect5{
   position: absolute;
 width: 146px;
 height: 255px;
@@ -155,7 +155,7 @@ transform: rotate(-40deg);
 }
 
 /* Rectangle 1 */
-rect6{
+.rect6{
   position: absolute;
 width: 146px;
 height: 255px;
