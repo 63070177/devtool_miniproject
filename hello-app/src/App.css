@@ -42,14 +42,15 @@
 }
 
 .logo{
-  width: 60px;
-  height: 60px;
+  width: 5%;
+  height: 4%;
 }
 
 button{
   background-color: #A066CB;
   color: white;
   border: none;
+  margin-right: 20px;
 }
 
 .tab{
@@ -70,4 +71,11 @@ button{
 body{
   background-color: #A066CB;
   color:white;
+}
+
+.container{
+  position: relative;
+  display:flex;
+  align-items: center;
+  height: 100%;
 }

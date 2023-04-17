@@ -10,9 +10,9 @@ function App() {
       <div className="tab">
           <img src={logo} className="logo"></img>
           <div className="mainmenu">
-            <button>Home</button>
-            <button>Log In</button>
-            <button>Register</button>
+            <button><b>Home</b></button>
+            <button><b>Log In</b></button>
+            <button><b>Register</b></button>
           </div>
         </div>
       <div className="container">
