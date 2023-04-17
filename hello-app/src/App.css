@@ -83,6 +83,11 @@ body {
 
 .bottomright{
   overflow: hidden;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 50%;
+  height: 50%;
 }
 
 /* Rectangle 1 */
