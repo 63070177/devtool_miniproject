@@ -57,6 +57,7 @@ button {
 .tab {
   display: inline;
   width: 100%;
+  margin: 20;
 }
 
 .mainmenu {
