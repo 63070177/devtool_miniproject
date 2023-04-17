@@ -18,13 +18,13 @@ function App() {
       <div className="container">
         <h1 className="AppName">LaSistant</h1>
         <p className="text">Let's begin</p>
-      </div>
-      <div className="rect1"></div>
+        <div className="rect1"></div>
         <div className="rect2"></div>
         <div className="rect3"></div>
         <div className="rect4"></div>
         <div className="rect5"></div>
         <div className="rect6"></div>
+      </div>
     </div>
   );
 }
