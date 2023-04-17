@@ -96,7 +96,7 @@ body {
   width: 146px;
   height: 255px;
   left: 1038px;
-  /*top: 67%;*/
+  top: 0;
 
   background: #1836b2;
   border-radius: 50px;
@@ -109,7 +109,7 @@ body {
   width: 146px;
   height: 255px;
   left: 1064px;
-  /*top: 48%;*/
+  top: 10%;
 
   background: #86c7ed;
   border-radius: 50px;
@@ -122,7 +122,7 @@ body {
   width: 146px;
   height: 255px;
   left: 1027px;
-  /*top: 89%;*/
+  top: 30%;
 
   background: #ffffff;
   border-radius: 50px;
@@ -135,7 +135,7 @@ body {
   width: 146px;
   height: 255px;
   left: 1245px;
-  /*top: 69%;*/
+  top: 20%;
 
   background: #ffffff;
   border-radius: 50px;
@@ -148,7 +148,7 @@ body {
   width: 146px;
   height: 255px;
   left: 1271px;
-  /*top: 50%;*/
+  top: 50%;
 
   background: #1836b2;
   border-radius: 50px;
@@ -161,7 +161,7 @@ body {
   width: 146px;
   height: 255px;
   left: 1219px;
-  /*top: 89%;*/
+  top: 40%;
 
   background: #86c7ed;
   border-radius: 50px;
