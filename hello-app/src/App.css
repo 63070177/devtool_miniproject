@@ -36,136 +36,129 @@
   }
 } */
 
-.AppName{
+.AppName {
   font-size: 4rem;
   font-weight: bold;
 }
 
-.logo{
+.logo {
   width: 5%;
   height: 4%;
 }
 
-button{
-  background-color: #A066CB;
+button {
+  background-color: #a066cb;
   color: white;
   border: none;
   margin-right: 20px;
 }
 
-.tab{
-  display:inline;
+.tab {
+  display: inline;
   width: 100%;
 }
 
-.mainmenu{
+.mainmenu {
   position: absolute;
   top: 0;
   right: 0;
 }
 
-.text{
+.text {
   font-size: 2rem;
 }
 
-body{
-  background-color: #A066CB;
-  color:white;
+body {
+  background-color: #a066cb;
+  color: white;
 }
 
-.container{
+.container {
   position: absolute;
-  left: 50%; 
+  left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
   overflow: hidden;
 }
 
-/* Rectangle 1 */
-.rect1{
-  position: absolute;
-width: 146px;
-height: 255px;
-left: 1038px;
-top: 679.85px;
-
-background: #1836B2;
-border-radius: 50px;
-transform: rotate(-40deg);
+.bottomright{
+  overflow: hidden;
 }
 
+/* Rectangle 1 */
+.rect1 {
+  position: absolute;
+  width: 146px;
+  height: 255px;
+  left: 1038px;
+  top: 67%;
 
+  background: #1836b2;
+  border-radius: 50px;
+  transform: rotate(-40deg);
+}
 
 /* Rectangle 4 */
-.rect2{
+.rect2 {
   position: absolute;
-width: 146px;
-height: 255px;
-left: 1064px;
-top: 484.85px;
+  width: 146px;
+  height: 255px;
+  left: 1064px;
+  top: 48%;
 
-background: #86C7ED;
-border-radius: 50px;
-transform: rotate(-40deg);
+  background: #86c7ed;
+  border-radius: 50px;
+  transform: rotate(-40deg);
 }
-
-
 
 /* Rectangle 2 */
-.rect3{
+.rect3 {
   position: absolute;
-width: 146px;
-height: 255px;
-left: 1027px;
-top: 892.85px;
+  width: 146px;
+  height: 255px;
+  left: 1027px;
+  top: 89%;
 
-background: #FFFFFF;
-border-radius: 50px;
-transform: rotate(-40deg);
+  background: #ffffff;
+  border-radius: 50px;
+  transform: rotate(-40deg);
 }
-
-
 
 /* Rectangle 3 */
-.rect4{
+.rect4 {
   position: absolute;
-width: 146px;
-height: 255px;
-left: 1245px;
-top: 697.85px;
+  width: 146px;
+  height: 255px;
+  left: 1245px;
+  top: 69%;
 
-background: #FFFFFF;
-border-radius: 50px;
-transform: rotate(-40deg);
+  background: #ffffff;
+  border-radius: 50px;
+  transform: rotate(-40deg);
 }
 
-
-
 /* Rectangle 4 */
-.rect5{
+.rect5 {
   position: absolute;
-width: 146px;
-height: 255px;
-left: 1271px;
-top: 502.85px;
+  width: 146px;
+  height: 255px;
+  left: 1271px;
+  top: 50%;
 
-background: #1836B2;
-border-radius: 50px;
-transform: rotate(-40deg);
+  background: #1836b2;
+  border-radius: 50px;
+  transform: rotate(-40deg);
 }
 
 /* Rectangle 1 */
-.rect6{
+.rect6 {
   position: absolute;
-width: 146px;
-height: 255px;
-left: 1219px;
-top: 892.85px;
+  width: 146px;
+  height: 255px;
+  left: 1219px;
+  top: 89%;
 
-background: #86C7ED;
-border-radius: 50px;
-transform: rotate(-40deg);
+  background: #86c7ed;
+  border-radius: 50px;
+  transform: rotate(-40deg);
 }
-
-
-
