@@ -60,7 +60,7 @@ button{
 
 .mainmenu{
   position: absolute;
-  top: -10;
+  top: 0;
   right: 0;
 }
 
@@ -79,3 +79,92 @@ body{
   top: 50%;
   transform: translate(-50%, -50%);
 }
+
+/* Rectangle 1 */
+rect1{
+  position: absolute;
+width: 146px;
+height: 255px;
+left: 1038px;
+top: 679.85px;
+
+background: #1836B2;
+border-radius: 50px;
+transform: rotate(-40deg);
+}
+
+
+
+/* Rectangle 4 */
+rect2{
+  position: absolute;
+width: 146px;
+height: 255px;
+left: 1064px;
+top: 484.85px;
+
+background: #86C7ED;
+border-radius: 50px;
+transform: rotate(-40deg);
+}
+
+
+
+/* Rectangle 2 */
+rect3{
+  position: absolute;
+width: 146px;
+height: 255px;
+left: 1027px;
+top: 892.85px;
+
+background: #FFFFFF;
+border-radius: 50px;
+transform: rotate(-40deg);
+}
+
+
+
+/* Rectangle 3 */
+rect4{
+  position: absolute;
+width: 146px;
+height: 255px;
+left: 1245px;
+top: 697.85px;
+
+background: #FFFFFF;
+border-radius: 50px;
+transform: rotate(-40deg);
+}
+
+
+
+/* Rectangle 4 */
+rect5{
+  position: absolute;
+width: 146px;
+height: 255px;
+left: 1271px;
+top: 502.85px;
+
+background: #1836B2;
+border-radius: 50px;
+transform: rotate(-40deg);
+}
+
+/* Rectangle 1 */
+rect6{
+  position: absolute;
+width: 146px;
+height: 255px;
+left: 1219px;
+top: 892.85px;
+
+background: #86C7ED;
+border-radius: 50px;
+transform: rotate(-40deg);
+}
+
+
+
