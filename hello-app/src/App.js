@@ -9,7 +9,7 @@ function App() {
       <div className="logo">
           <img src="logo.png"></img>
         </div>
-      <div className="container">
+      <div>
         <h1 className="AppName">LaSistant</h1>
         <p className="text">Let's begin</p>
       </div>
