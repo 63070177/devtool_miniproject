@@ -57,12 +57,13 @@ button{
   display:inline;
   width: 100%;
   position: absolute;
+  margin-top: 20;
 }
 
 .mainmenu{
   position: absolute;
   right: 0;
-  top: 0;
+  top: 10;
 }
 
 .text{
