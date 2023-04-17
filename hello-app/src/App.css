@@ -36,11 +36,15 @@
   }
 } */
 
+.AppName{
+  font-size: 4rem;
+}
+
 .text{
-  color:white;
-  font-size: large;
+  font-size: 2rem;
 }
 
 body{
   background-color: #A066CB;
+  color:white;
 }
