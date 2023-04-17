@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="container">
       <div className="logo">
-        <img src=""></img>
+        <img src="./logo.png"></img>
       </div>
       <h1 className="AppName">LaSistant</h1>
       <p className="text">Let's begin</p>

@@ -38,6 +38,12 @@
 
 .AppName{
   font-size: 4rem;
+  font-weight: bold;
+}
+
+.logo{
+  width: 2svh;
+  height: 2svh;
 }
 
 .text{
