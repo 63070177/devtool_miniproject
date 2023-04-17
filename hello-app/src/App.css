@@ -44,7 +44,9 @@
 .logo{
   width: 5%;
   height: 4%;
-  position: relative;
+  position: absolute;
+  top: 10;
+  left: 10;
 }
 
 button{
