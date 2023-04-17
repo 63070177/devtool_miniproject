@@ -44,6 +44,7 @@
 .logo{
   width: 5%;
   height: 4%;
+  margin-top: 20;
 }
 
 button{
@@ -63,7 +64,7 @@ button{
 .mainmenu{
   position: absolute;
   right: 0;
-  top: 10;
+  top: 0;
 }
 
 .text{
