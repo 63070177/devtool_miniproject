@@ -7,10 +7,15 @@ function App() {
   console.log(hostname);
   return (
     <div>
-      <div className="logo">
-          <img src={logo}></img>
+      <div className="tab">
+          <img src={logo} className="logo"></img>
+          <div>
+            <button>Home</button>
+            <button>Log In</button>
+            <button>Register</button>
+          </div>
         </div>
-      <div>
+      <div className="container">
         <h1 className="AppName">LaSistant</h1>
         <p className="text">Let's begin</p>
       </div>

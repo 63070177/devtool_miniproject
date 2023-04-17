@@ -46,6 +46,16 @@
   height: 60px;
 }
 
+button{
+  background-color: none;
+  color: white;
+  border: none;
+}
+
+.tab{
+  display:inline-block;
+}
+
 .text{
   font-size: 2rem;
 }
