@@ -47,13 +47,20 @@
 }
 
 button{
-  background-color: none;
+  background-color: #A066CB;
   color: white;
   border: none;
 }
 
 .tab{
   display:inline-block;
+  width: 100%;
+  position: absolute;
+}
+
+.mainmenu{
+  position: absolute;
+  right: 0;
 }
 
 .text{

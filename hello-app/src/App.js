@@ -9,7 +9,7 @@ function App() {
     <div>
       <div className="tab">
           <img src={logo} className="logo"></img>
-          <div>
+          <div className="mainmenu">
             <button>Home</button>
             <button>Log In</button>
             <button>Register</button>
